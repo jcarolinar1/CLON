@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "AVANCES-PRO",
+			"path": "."
+		},
+		{
+			"path": "../protalento-b7/bandera"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "AVANCES-PRO"
+	}
+}
